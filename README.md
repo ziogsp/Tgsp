@@ -1,6 +1,5 @@
 # Tgsp\
-
-***_This is the first publication_***
+_This is the first publication_
 
 <a href="https://ziogsp.github.io/Tgsp/TestFolder/index.html" target="_blank">ZAGLYSHKA</a>
 
